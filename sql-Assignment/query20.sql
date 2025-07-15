@@ -1,0 +1,1 @@
+SELECT 'YES' AS anyProblems FROM orderdetails WHERE priceEach = 0 UNION SELECT 'YES' FROM products WHERE buyPrice = 0;

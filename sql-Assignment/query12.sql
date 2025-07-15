@@ -1,0 +1,1 @@
+SELECT  orders.orderNumber, orders.comments, customers.customerName FROM orders JOIN customers ON customers.customerNumber = orders.customerNumber WHERE status = "Disputed";

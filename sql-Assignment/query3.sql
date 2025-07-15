@@ -1,0 +1,1 @@
+SELECT * FROM offices WHERE country = "UK" or country = "SA";

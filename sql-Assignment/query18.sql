@@ -1,0 +1,1 @@
+SELECT COUNT(*) * 100 / (SELECT COUNT(*) FROM offices) AS percentUSA FROM offices WHERE country = 'USA';

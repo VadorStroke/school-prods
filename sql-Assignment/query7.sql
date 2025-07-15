@@ -1,0 +1,1 @@
+SELECT * FROM offices WHERE addressLine2 IS NOT NULL AND state IS NULL;

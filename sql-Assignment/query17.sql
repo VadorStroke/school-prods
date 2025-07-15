@@ -1,0 +1,1 @@
+SELECT num1.country, num1.officeCode as oneOffice, num2.officeCode as otherOffice FROM offices num1 JOIN offices num2 ON num1.country = num2.country AND num1.officeCode < num2.officeCode;

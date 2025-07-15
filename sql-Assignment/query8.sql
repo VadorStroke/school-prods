@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS numEmps FROM employees;

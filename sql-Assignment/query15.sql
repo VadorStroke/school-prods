@@ -1,0 +1,1 @@
+SELECT officeCode, COUNT(*) AS numReps FROM employees WHERE jobTitle = "Sales Rep" GROUP BY officeCode;

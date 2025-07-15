@@ -1,0 +1,1 @@
+SELECT DISTINCT city FROM offices WHERE city is NOT NULL;
