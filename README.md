@@ -10,3 +10,6 @@ Where applicable, I’ve added comments in the code files to indicate the origin
 - CSC1015F focused more on introducing me to prgramming and solving problems.
 - CSC1016S focused more on familiarizing me with OOP principles.
 - A noteworthy asssingment is definitely Assignment 8 for CSC1016S where we built an interface using GUI.
+
+# Future Plans
+- I plan on including the first semester projects which focused more on data structures and databases. 
