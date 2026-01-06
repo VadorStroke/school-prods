@@ -1,5 +1,5 @@
 # school-prods
-This is a repo of all my school projects, for these projects the main programming languages were Java and Python
+This is a repo of most of my school projects, for these projects the main programming languages were Java and Python
 
 > ⚠️ Disclaimer:
 Some of the code in this project was part of coursework or tutorials and is not originally authored by me.  
